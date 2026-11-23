@@ -1,7 +1,7 @@
 {
   "name": "mcp-cutshort-jobs-scraper",
   "displayName": "Cutshort Jobs Scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Cutshort Jobs Scraper: India tech job listings by skill and city.",
   "author": {
     "name": "Mamba Labs",
